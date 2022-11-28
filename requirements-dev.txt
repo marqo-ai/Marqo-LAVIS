@@ -1,5 +1,4 @@
 contexttimer
-decord
 einops>=0.4.1
 fairscale==0.4.4
 ftfy
